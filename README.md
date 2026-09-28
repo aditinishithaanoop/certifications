@@ -4,4 +4,4 @@
 <br><br>
 - [Outskill AI Engineering Mastermind](Aditi_Nishitha_Anoop_Certificate.pdf)
 <br><br>
-- [`AI builders with IBM Bob`](AI_Builders_IBM_Bob-Certificate_of_Participation-Aditi_Nishitha_Anoop.pdf)
+- [AI builders with IBM Bob](AI_Builders_IBM_Bob-Certificate_of_Participation-Aditi_Nishitha_Anoop.pdf)
